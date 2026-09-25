@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.private.json
+config.json
+dataset_runs*/
+runs/
+*.safetensors
+*.pt
+*.log
